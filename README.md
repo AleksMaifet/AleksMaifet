@@ -19,4 +19,4 @@ I am React Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&color=007886)](https://www.linkedin.com/in/aleks-maifet-454140210)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&color=045de9)](https://t.me/creat1veONE)
-[![CODEWARS](https://img.shields.io/badge/-CODEWARS-090909?style=for-the-badge&logo=CODEWARS&logoColor=007886)](https://www.codewars.com/users/AleksMaifet)
+[![CODEWARS](https://img.shields.io/badge/-CODEWARS-090909?style=for-the-badge&logo=CODEWARS&color=90d5ec)](https://www.codewars.com/users/AleksMaifet)
