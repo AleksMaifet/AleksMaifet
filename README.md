@@ -10,7 +10,7 @@ I am React Frontend Developer
 ![Thunk](https://img.shields.io/badge/-Thunk-090909?style=for-the-badge&logo=Thunk)
 ![Saga](https://img.shields.io/badge/-Saga-090909?style=for-the-badge&logo=Saga)
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios)
-![Rest API](https://img.shields.io/badge/-Rest API-090909?style=for-the-badge)
+![Rest API](https://img.shields.io/badge/090909?style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/-Material-UI-090909?style=for-the-badge&logo=Material-UI)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
