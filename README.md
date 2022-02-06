@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Aleksei
-I am React Frontend Developer
+### Hi there 👋, my name Aleksei!
+I am React Frontend Developer😁
 
 ### Languages and Tools
 
