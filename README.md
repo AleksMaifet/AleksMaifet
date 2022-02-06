@@ -3,4 +3,4 @@
 
 
 ### 
-![React](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>style=for-the-badge&logo=appveyor)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
