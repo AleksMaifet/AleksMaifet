@@ -11,7 +11,7 @@ I am React Frontend Developer
 ![Saga](https://img.shields.io/badge/-Saga-090909?style=for-the-badge&logo=Saga)
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios)
 <!-- ![Rest API](https://img.shields.io/badge/090909?style=for-the-badge) -->
-![Material-UI](https://img.shields.io/badge/-Material-UI-090909?style=for-the-badge&logo=Material-UI)
+![Material UI](https://img.shields.io/badge/-Material UI-090909?style=for-the-badge&logo=Material UI)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
