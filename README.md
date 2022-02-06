@@ -13,7 +13,7 @@ I am React Frontend Developer😁
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
-![REST-API](https://img.shields.io/badge/-REST API-090909?style=for-the-badge&logo=REST-API)
+![REST-API](https://img.shields.io/badge/-090909?style=for-the-badge&logo=REST-API)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
 
 ### Contact me
