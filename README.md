@@ -18,6 +18,4 @@ I am React Frontend Developer
 ### Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007886)](https://www.linkedin.com/in/aleks-maifet-454140210)
-<!-- ![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO) -->
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=007886)](https://t.me/creat1veONE)
