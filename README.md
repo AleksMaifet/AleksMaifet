@@ -14,3 +14,10 @@ I am React Frontend Developer
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
+
+### Contact me:
+
+![[Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aleks-maifet-454140210/)
+<!-- ![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=Socket.IO) -->
